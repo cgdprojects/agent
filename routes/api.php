@@ -31,3 +31,5 @@ Route::middleware(['auth', 'core'])
     });
 
 Broadcast::routes(['middleware' => ['auth:sanctum']]);
+
+require __DIR__.'/app/property.php';

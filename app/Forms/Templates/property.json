@@ -1,0 +1,7 @@
+{
+    "routePrefix": "property",
+    "sections": [{
+        "columns": 2,
+        "fields": []
+    }]
+}
