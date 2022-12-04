@@ -61,10 +61,6 @@ Special thanks to [Taylor Otwell](https://laravel.com/), [Jeffrey Way](https://l
 
 are welcome. Pull requests are great, but issues are good too.
 
-### Sponsor (*new*)
-
-This project is backed by [Earthlink](https://www.earthlink.ro)
-
 ## Contributors
 
 This project exists thanks to all the people who contribute. 
